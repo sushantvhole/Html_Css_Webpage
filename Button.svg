@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="171" height="172" viewBox="0 0 171 172">
+  <g id="Button" transform="translate(0.125 0.317)">
+    <ellipse id="Stroke" cx="85" cy="85.5" rx="85" ry="85.5" transform="translate(0.375 0.183)" fill="none" stroke="#fff" stroke-width="1" opacity="0.3"/>
+    <path id="Icon" d="M54.818,23.179,5.639.768A5.137,5.137,0,0,0,3.279,0C1.836,0,0,.9,0,2.561v46.1c0,1.665,1.836,2.561,3.279,2.561a5.137,5.137,0,0,0,2.361-.768L54.818,28.046c1.049-.512,2.1-1.025,2.1-2.433S55.868,23.692,54.818,23.179Z" transform="translate(62.608 60.332)" fill="#fff"/>
+  </g>
+</svg>
